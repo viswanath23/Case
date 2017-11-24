@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>ID845818</sys_created_by>
         <sys_created_on>2017-11-24 17:06:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4e97c007db2207004f2cf58dae961985</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Book Record</sys_name>

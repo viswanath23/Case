@@ -13,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>ID845818</sys_created_by>
         <sys_created_on>2017-11-24 17:06:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>82a748c3db2207004f2cf58dae9619ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_infpr_case_book_record_user</sys_name>

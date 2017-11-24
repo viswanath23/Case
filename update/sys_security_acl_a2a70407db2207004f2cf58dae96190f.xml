@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>ID845818</sys_created_by>
         <sys_created_on>2017-11-24 17:06:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a2a70407db2207004f2cf58dae96190f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_infpr_case_book_record</sys_name>

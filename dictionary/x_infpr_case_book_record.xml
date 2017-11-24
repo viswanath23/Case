@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Book Record" max_length="40" name="x_infpr_case_book_record" type="collection"/>
+    <element label="Book Record" max_length="40" name="x_infpr_case_book_record" type="collection">
+        <element label="Book Name" max_length="100" name="book_name" type="string"/>
+    </element>
 </database>

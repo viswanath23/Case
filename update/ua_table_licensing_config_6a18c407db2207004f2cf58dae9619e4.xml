@@ -9,15 +9,15 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>ID845818</sys_created_by>
         <sys_created_on>2017-11-24 17:06:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>b2a70407db2207004f2cf58dae96191f</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6a18c407db2207004f2cf58dae9619e4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_infpr_case_book_record</sys_name>
         <sys_package display_value="case" source="x_infpr_case">08e54c83db2207004f2cf58dae961938</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="case">08e54c83db2207004f2cf58dae961938</sys_scope>
-        <sys_update_name>ua_table_licensing_config_b2a70407db2207004f2cf58dae96191f</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_6a18c407db2207004f2cf58dae9619e4</sys_update_name>
         <sys_updated_by>ID845818</sys_updated_by>
         <sys_updated_on>2017-11-24 17:06:05</sys_updated_on>
     </ua_table_licensing_config>
